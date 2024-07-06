@@ -1,4 +1,3 @@
-import 'package:editor/providers/qna_provider.dart';
 import 'package:editor/providers/request_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

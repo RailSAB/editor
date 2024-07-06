@@ -1,6 +1,4 @@
-import 'package:editor/UI/QAs/Pages/Widgets/question_widget.dart';
 import 'package:editor/UI/Requests/widgets/request_widget.dart';
-import 'package:editor/providers/qna_provider.dart';
 import 'package:editor/providers/request_provider.dart';
 import 'package:flutter/material.dart';
 
